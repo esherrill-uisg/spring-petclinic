@@ -27,7 +27,7 @@
     <webjars-jquery.version>3.7.1</webjars-jquery.version>
     <wro4j.version>2.1.1</wro4j.version>
 
-    <jacoco.version>0.8.2</jacoco.version>
+    <jacoco.version>0.8.11</jacoco.version>
 
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>
